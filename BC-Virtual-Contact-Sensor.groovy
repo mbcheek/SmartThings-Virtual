@@ -13,7 +13,7 @@
  *  for the specific language governing permissions and limitations under the License.
  */
 metadata {
-	definition (name: "BC Virtual Contact Sensor", namespace: "mbcheek", author: "Brandon Cheek", cstHandler: true, vid: "generic-contact") {
+	definition (name: "BC Virtual Contact Sensor", namespace: "mbcheek", author: "Brandon Cheek", cstHandler: true, vid: "generic-contact-2") {
         capability "Contact Sensor"
 	capability "Switch"
         capability "Actuator"
