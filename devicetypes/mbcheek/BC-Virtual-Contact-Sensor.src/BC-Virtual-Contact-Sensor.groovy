@@ -1,4 +1,3 @@
-
 /**
  *  BC Virtual Contact Sensor
  *
